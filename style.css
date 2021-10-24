@@ -1,0 +1,37 @@
+body{
+background-color: aliceblue;
+}
+
+#firstH{
+color: darkcyan;
+}
+
+#h51{
+background-color: white;
+width: 500px;
+}
+#h52{
+    background-color: white;
+    width: 500px;
+    }
+
+#bigdiv{
+background-color: grey;
+}
+
+#laptopImage{
+width: 250px;
+height: 250px;
+margin-top: 50px;
+}
+
+.copy_right_footer
+{
+bottom: 0px;
+position: fixed;
+background-color: grey;
+text-align: center;
+box-shadow:5px 5px 5px grey;
+font-size: 20px;
+width: 100%;
+}
